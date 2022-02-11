@@ -4,7 +4,7 @@
 - 📫 How to reach me: @pb.micaelpereira | in/micaelpereira
 - 😄 Pronouns: ele/dele
 
-<div align="center">
+<div align="center d-fluid">
   <a href="https://github.com/MicaelRPereiraGTI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelRPereiraGTI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelRPereiraGTI&layout=compact&langs_count=7&theme=radical"/>
