@@ -3,6 +3,10 @@
 - 🌱 Studying python, regex, php and sql 
 - 📫 How to reach me: @pb.micaelpereira | in/micaelpereira
 - 😄 Pronouns: ele/dele
+- 🎸 Hobbies: Tocar violão e tomar chimarrão
+- 👨‍🎓 Learning: Web Full Stack - Front-End: HTML - CSS - React | Back-End: NodeJS - MongoDB - MySQL - PostgreSQL
+- 💻 Favorite Language: PHP - JavaScript
+- 📚 Currently Studying: HTML - JavaScrip - Shell Script
 
 <div align="center d-fluid">
   <a href="https://github.com/MicaelRPereiraGTI">
