@@ -5,13 +5,12 @@
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
   
   <p>- 🔭 I'm working as a Support Analyst </p>
-  <p>- 🌱 Studying python, regex, php and sql </p>
   <p>- 📫 How to reach me: @pb.micaelpereira | in/micaelpereira </p>
-  <p>- 😄 Pronouns: ele/dele </p>
-  <p>- 🎸 Hobbies: Tocar violão e tomar chimarrão </p>
-  <p>- 👨‍🎓 Learning Web Full Stack: HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT</p>
+  <p>- 😄 Pronouns: ele/dele | he/him </p>
+  <p>- 🎸 Hobbies: Play the guitar, drink chimarrão and a good coffee </p>
+  <p>- 👨‍🎓 Learning Web Full Stack at Growdev : HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT</p>
   <p>- 💻 Favorite Language: PHP - JavaScript </p>
-  <p>- 📚 Currently Studying: HTML - JavaScrip - Bootstrap - Docker </p>
+  <p>- 📚 Currently Studying: HTML - JavaScrip - Bootstrap - Docker - Prometheus - Grafana - AWS - Cloudwatch </p>
 </div>
 
 </br>
