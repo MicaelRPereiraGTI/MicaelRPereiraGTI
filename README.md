@@ -4,7 +4,7 @@
 <div align="left"><br>
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
   
-  <p>- 🔭 I'm working with Shell Script </p>
+  <p>- 🔭 I'm working as a Support Analyst </p>
   <p>- 🌱 Studying python, regex, php and sql </p>
   <p>- 📫 How to reach me: @pb.micaelpereira | in/micaelpereira </p>
   <p>- 😄 Pronouns: ele/dele </p>
