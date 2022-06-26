@@ -5,7 +5,7 @@
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
   
   <p>- 🔭 I'm working as a Support Analyst </p>
-  <p>- 📫 How to reach me: @pb.micaelpereira | in/micaelpereira </p>
+  <p>- 📫 How to reach me: @rp_micael | in/micaelpereira </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🎸 Hobbies: Play the guitar, drink chimarrão and a good coffee </p>
   <p>- 👨‍🎓 Learning Web Full Stack at Growdev : HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT</p>
