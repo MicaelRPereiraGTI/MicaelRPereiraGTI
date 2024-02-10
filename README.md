@@ -3,7 +3,7 @@
 </div></br>
 <div align="left"><br>
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
-  
+
   <p>- 🔭 I'm working as a Support Analyst </p>
   <p>- 📫 How to reach me: @rp_micael | in/micaelrpereira </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
