@@ -4,13 +4,13 @@
 <div align="left"><br>
   <img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" min-width="400px" max-width="400px" width="400px" align="right">
 
-  <p>- 🔭 I'm working as a Support Analyst </p>
+  <p>- 🔭 I'm working as a Developer Jr at Icaro Tech </p>
   <p>- 📫 How to reach me: @rp_micael | in/micaelrpereira </p>
   <p>- 😄 Pronouns: ele/dele | he/him </p>
   <p>- 🎸 Hobbies: Play the guitar, drink chimarrão and a good coffee </p>
-  <p>- 👨‍🎓 Learning Web Full Stack at Growdev : HTML - CSS - Bootstrap - JavasScript -TypeScript - NodeJS - MongoDB - MySQL - GIT</p>
-  <p>- 💻 Favorite Language: PHP - JavaScript </p>
-  <p>- 📚 Currently Studying: HTML - JavaScrip - Bootstrap - Docker - Prometheus - Grafana - AWS - Cloudwatch </p>
+  <p>- 👨‍🎓 Learning I'm learning web Programming with Java and Spring Boot</p>
+  <p>- 💻 Favorite Language: PHP - Java</p>
+  <p>- 📚 Currently Studying: Java POO </p>
 </div>
 
 </br>
@@ -25,18 +25,14 @@
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  <img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
 </div><br/>
   
 <div align="center">
